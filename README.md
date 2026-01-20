@@ -18,3 +18,22 @@ This project is a **Machine Learning application** that detects whether a messag
 
 ## How to Run
 1. Clone the repository:
+2. Navigate to the project folder:
+3. Create and activate a virtual environment:
+4. Install required libraries:
+5. Run the project:
+
+## Sample Output
+The program will display:
+- Dataset overview
+- Preprocessing examples
+- Model evaluation (accuracy, precision, recall, confusion matrix)
+- Predictions for new messages with confidence scores
+
+## Future Improvements
+- Use a larger dataset
+- Add a web interface (Flask or Streamlit)
+- Optimize the model for better accuracy
+
+## GitHub Repository
+[https://github.com/shejalv/spam-message-detection-ml](https://github.com/shejalv/spam-message-detection-ml)
